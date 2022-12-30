@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  }
+#root {
+  max-width: 100%;
+  text-align: center;
+  padding: 0;
+}
+.shop{
+  text-align: center;
+}
+.card img{
+  width: 90px; 
+  height: 100px;
+  object-fit: cover;
+  }
+ .new{
+  margin-right: -12px;
+ }
+ .categoryType{
+  background-color: #0d6efd;
+  text-align: center;
+  color: white;
+  padding:0;
+  padding-top: 4px;
+  padding-bottom: 8px;
+ }
+ .empty{
+  text-align: center;
+  justify-content: center;
+  width: 40%;
+  border-radius: 5px;
+  box-shadow: 0.5px 1px 0.5px 0.5px rgb(177, 177, 177);
+  padding: 20px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+ }
+ @media only screen and (max-width: 540px) {
+  .empty{
+    width:340px;
+    margin-top: 180px;
+  }
+  .cartImg1{
+    width: 40px;
+    height: 40px;
+  }
+ }
+.CartisEmpty{
+  padding-top: 0px;
+  margin-bottom: 20px;
+}
+.cartImg{
+  padding-bottom: 0px;
+}
+table tbody tr{
+  text-align: center;
+}
+td a{
+  text-decoration: none;
+  color: black;
+}
