@@ -5,7 +5,7 @@ import { useSelector } from "react-redux";
 function Navbar() {
   const state=useSelector((state)=>state.handleCart)
   return (
-      <nav className="navbar navbar-expand-lg bg-inf bg-gradient">
+      <nav className="navbar navbar-expand-lg bg-info bg-gradient">
         <div className="container">
           <NavLink className="navbar-brand fw-bold text-light" to="/">
             Shopwise
