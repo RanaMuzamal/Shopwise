@@ -8,7 +8,7 @@ function Navbar() {
       <nav className="navbar navbar-expand-lg bg-primary">
         <div className="container">
           <NavLink className="navbar-brand fw-bold text-light" to="/">
-            MY STORE
+            Shopwise
           </NavLink>
           <div className="buttons">
             <NavLink to="/" className=" btn text-light">
