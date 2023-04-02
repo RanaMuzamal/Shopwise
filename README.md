@@ -1,8 +1,9 @@
-## Technologiea
--ReactJS
--React Redux
--Fake store API
--Bootstrap
+## Technologies
+- ReactJS
+- React Redux
+- Fake store API
+- Bootstrap
+
 This project is build using Vite to build the assets. You can use following commands to get started.
 
 ## Install the dependencies
