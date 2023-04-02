@@ -1,14 +1,3 @@
-
-# Ecommerce-Store </> 
-Ecommerce Store  using ReactJS and Fake Store Api
-```bash
-## Features
--ReactJS
--React Redux
--Fake store API
--Bootstrap
-```bash
-
 ## Technologiea
 -ReactJS
 -React Redux
